@@ -10,8 +10,8 @@ export default function Header() {
     return (
         <Container>
             <Top>
+                <Title>Brendon  </Title>
                 <Logo source={logo} />
-                <Title>Brendon</Title>
             </Top>
             <Icon name="keyboard-arrow-down" size={20} color="#FFF" />
         </Container>
